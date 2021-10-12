@@ -1,0 +1,14 @@
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.AssemblyReference.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\CCHRISTIAN1\OneDrive - KNEX\Documents\DevBuild\Weeks\Week 1\Labs Repo\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
