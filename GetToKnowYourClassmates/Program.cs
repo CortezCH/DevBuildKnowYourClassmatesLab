@@ -69,14 +69,6 @@ namespace GetToKnowYourClassmates
             studentFood.Add("Steak");
             studentFood.Add("Fried Chicken");
 
-            for (int j = 0; j < studentNumber.Count; j++)
-            {
-                Console.WriteLine(studentNumber[j]);
-                Console.WriteLine(studentName[j]);
-                Console.WriteLine(studentHometown[j]);
-                Console.WriteLine(studentFood[j]);
-            }
-
             Console.WriteLine("Welcome to our C# class!");
 
             //Create a while loop to handle the continuous running of the program
